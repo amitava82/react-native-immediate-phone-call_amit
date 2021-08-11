@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:fresco:0.8.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b65cf628e57c5f4a3c552f180b8fc60/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b65cf628e57c5f4a3c552f180b8fc60/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b65cf628e57c5f4a3c552f180b8fc60/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

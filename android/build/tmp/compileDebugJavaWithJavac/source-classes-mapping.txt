@@ -1,0 +1,6 @@
+com/reactlibrary/RNReactNativeImmediatePhoneCallSrijanModule.java
+ com.reactlibrary.RNReactNativeImmediatePhoneCallSrijanModule
+com/reactlibrary/BuildConfig.java
+ com.reactlibrary.BuildConfig
+com/reactlibrary/RNReactNativeImmediatePhoneCallSrijanPackage.java
+ com.reactlibrary.RNReactNativeImmediatePhoneCallSrijanPackage
