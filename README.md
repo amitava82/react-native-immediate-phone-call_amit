@@ -24,6 +24,7 @@
 1. Open up `android/app/src/main/java/[...]/MainActivity.java`
   - Add `import com.reactlibrary.RNReactNativeImmediatePhoneCallSrijanPackage;` to the imports at the top of the file
   - Add `new RNReactNativeImmediatePhoneCallSrijanPackage()` to the list returned by the `getPackages()` method
+
 2. Append the following lines to `android/settings.gradle`:
   	```
   	include ':react-native-immediate-phone-call-srijan'
@@ -33,6 +34,20 @@
   	```
       compile project(':react-native-immediate-phone-call-srijan')
   	```
+4.For cal permission add this line to manifest.xml in your project for requesting permission of making call 
+<uses-permission android:name="android.permission.CALL_PHONE" />
+
+5.add initent-filter under the activity in mainfest.xml file for your project
+<application
+      android:name=".MainApplication">
+      <activity
+        android:name=".MainActivity">
+          <intent-filter>
+              <action android:name="android.intent.action.CALL_PRIVILEGED" />
+              <data android:scheme="tel" />
+          </intent-filter>
+      </activity>
+    </application>
 
 ## Usage
 ```javascript
