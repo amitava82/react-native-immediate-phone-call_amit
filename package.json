@@ -1,6 +1,6 @@
 {
   "name": "react-native-immediate-phone-call-srijan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Initiate immediate phone call (without further user interaction) for React Native on iOS and Android.",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/atinderSingh11/react-native-immediate-phone-call_srijan/issues"
   },
-  "homepage": "https://github.com/atinderSingh11/react-native-immediate-phone-call_srijan"
+  "homepage": "https://github.com/atinderSingh11"
 }
