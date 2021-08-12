@@ -1,6 +1,5 @@
 #import <UIKit/UIKit.h>
-#import <React/RCTBridgeModule.h>
-#import <React/RCTBridge.h>
+#import "RCTBridgeModule.h"
 
 @interface RNReactNativeImmediatePhoneCallSrijan : NSObject <RCTBridgeModule>
 
