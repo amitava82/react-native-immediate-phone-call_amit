@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNReactNativeImmediatePhoneCallSrijan"
-  s.version      = "1.0.3"
+  s.version      = "2.0.0"
   s.summary      = "RNReactNativeImmediatePhoneCallSrijan"
   s.description  = "Initiate immediate phone call (without further user interaction) for React Native on iOS and Android."
   s.homepage     = "https://github.com/amitava82/react-native-immediate-phone-call_amit"
