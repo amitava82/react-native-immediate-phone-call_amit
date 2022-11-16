@@ -1,4 +1,3 @@
-#import <UIKit/UIKit.h>
 #import "RNReactNativeImmediatePhoneCallSrijan.h"
 
 @implementation RNReactNativeImmediatePhoneCallSrijan
@@ -11,5 +10,3 @@ RCT_EXPORT_METHOD(immediatePhoneCall:(NSString *)number)
 };
 
 @end
-  
-  
